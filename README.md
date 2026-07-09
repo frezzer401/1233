@@ -4,7 +4,7 @@ create table stg.ext_sales
 (outlet_id numeric,
  n_volume numeric,
  product_id numeric,
- sales_date timestamp);
+ sales_date timestamp); 
 
 
 --product
